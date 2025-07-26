@@ -1,14 +1,14 @@
 
 # 👋 Hi, I'm Aniket Ajay Umare
 
-🎯 **QA Engineer | Test Automation Specialist | 3+ Years Experience**
+🎯 **QE - Quality Engineer | Full Stack Automation Specialist | 3+ Years Experience**
 
 Experienced Software Test Engineer with a strong background in **manual** and **automation testing**. Skilled in designing robust test frameworks, writing scalable test scripts, and integrating testing into CI/CD pipelines. Passionate about quality and detail, with hands-on expertise in UI and API testing.
 
 ---
 
 ### 💼 Current Focus:
-- 🔬 Working on Selenium + TestNG based automation for Swag Labs
+- 🔬 Working on Selenium + Rest Assured framework based automation for Valuelabs
 - 📈 Integrating CI/CD pipelines using Jenkins and GitHub
 - 🧪 Enhancing test report automation using Extent Reports
 
@@ -26,7 +26,7 @@ Experienced Software Test Engineer with a strong background in **manual** and **
 `MySQL` | `Linux` | `Windows`
 
 **Learning Now:**  
-`Cypress` | `JMeter` | `Playwright`
+`Cypress` | `Playwright`
 
 ---
 
@@ -38,8 +38,8 @@ Experienced Software Test Engineer with a strong background in **manual** and **
 
 ### 📫 Connect with Me
 
-📧 Email: [aniketumare07@gmail.com](mailto:aniketumare07@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/aniket-ajay-umare](https://linkedin.com/in/aniket-ajay-umare)
+📧 Email: [uaniket.ben@gmail.com](mailto:uaniket.ben@gmail.com)  
+🔗 LinkedIn: [Aniket Ajay Umare](https://www.linkedin.com/in/aniket-umare-4232a92a3/)
 
 ---
 
